@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+}
+*{
+	box-sizing: border-box;
+}
+
+.div1{
+    width: 90%;
+    height: 70px;
+    border: solid 2px black;
+    background-color: gray;
+    padding-left: 20px;
+    margin-left: 70px;
+    font-family:Dishonorable Mention (Comic Sans);
+    font-size: 40px;
+}
+
+.box1{
+	width: 90%;
+	height: 400px;
+	border: solid 2px black;
+	background-color: gray;
+	padding-left: 20px;
+	margin-left: 70px;
+    font-family:Dishonorable Mention (Comic Sans);
+}
+
+h3{
+    text-align: center;
+}
